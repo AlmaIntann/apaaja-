@@ -1,6 +1,10 @@
 Data
+Nama
 Alma Intan Pebiana
+NPM
 20753005
+Prodi
 Manajemen Informatika
 Polinela
+Kelas
 5 A
