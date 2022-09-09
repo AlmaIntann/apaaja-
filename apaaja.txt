@@ -1,11 +1,11 @@
 Data
-Nama
+Nama :
 Alma Intan Pebiana
-NPM
+NPM :
 20753005
-Prodi
+Prodi :
 Manajemen Informatika
 Polinela
-Kelas
+Kelas :
 5 A
-Agama Islam
+Agama : Islam
